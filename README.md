@@ -15,11 +15,11 @@
   The main objective of this project is to:
   Explore the relationship between various features and COVID-19.
   Handle missing values and outliers.
-  Visualize the data to better understand trends and distributions.
+  Visualize the data to understand trends and distributions better.
   Build machine learning models to predict the likelihood of a patient having COVID-19.
 
 ## Dataset Source
-  The dataset used for this analysis is hypothetical and can be downloaded from [Insert dataset link if available or remove this section].
+  The hypothetical dataset used for this analysis can be downloaded from [Insert dataset link if available or remove this section].
 
 ## Technologies Used
   Python: Programming language used for data analysis and model building.
@@ -36,11 +36,11 @@
   Prediction: Make predictions using the trained models and evaluate accuracy.
 
 ## Visualization
-  The project includes various visualizations to better understand the data, including:
+  The project includes various visualizations to understand the data better, including:
   Count plots: To show the distribution of COVID cases.
   Histograms: For distribution of numerical features like age.
   Heatmaps: To visualize correlations between features.
-  Boxplots: To analyze feature distribution with respect to COVID status.
+  Boxplots: To analyze feature distribution for COVID status.
 
 
 ## Results
